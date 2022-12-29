@@ -1,0 +1,7 @@
+{
+    "product_images_project_id": "Use your project id in GCP",
+    "zone": "us-west1-a",
+    "product_name": "debian10-with-nginx-other-names",
+    "source_image_family": "debian-10",
+    "image_description": "My image for user1, with nginx on board."
+  }

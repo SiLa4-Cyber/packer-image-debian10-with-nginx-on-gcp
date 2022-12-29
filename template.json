@@ -1,0 +1,28 @@
+{
+    "builders": [
+        {
+            "name": "{{user `product_name`}}-builder",
+            "type": "googlecompute",
+            "project_id": "{{user `product_images_project_id`}}",
+            "source_image_family": "{{user `source_image_family`}}",
+            "ssh_username": "image-builder",
+            "account_file": "account.json",
+            "zone": "{{ user `zone`}}",
+            "preemptible": false,
+            "image_family": "{{user `target_image_family`}}",
+            "image_description": "{{user `image_description`}}",
+            "image_name": "{{user `product_name`}}",
+            "image_labels": {
+                "source_image_family": "{{user `source_image_family`}}",
+                "creation_date": "{{isotime \"20060102\"}}"
+            }
+        }
+  ],
+    "provisioners":[
+        {
+            "type": "ansible",
+            "playbook_file": "./main.yml",
+            "user": "image-builder"
+        }
+    ]
+}

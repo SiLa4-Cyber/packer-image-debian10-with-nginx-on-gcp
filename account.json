@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rare-gate-372308",
+  "private_key_id": "6280a5278e0045de636e03abf5eaecc4bf146a02",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDNFfYr2Anc4JSC\nyjgybZgvzM6fsM2hNZSAFiZvqaLq11X7MH1S48QbYerIQcIyFOy+bel5hh2TURQe\nie6hNZGK19W2HLRtX9dJYsAPlGKC1bf6zeV47FPo3wFcCN1dpW1wc/y3uNlE+QV8\nIZiHANH5Fku9YxFg7DZzuBn5Y5SfCF9gnMVNW3yX4Abu8I1DQoq0Hght/nRoF0HO\npWrf1GK1WgyOAC0c9+U7yQ9dHQv/PFqaozvfb5FGd0FGIIc/n9DuuBacFsWtnaDO\nzpIBYZgNzgeTh5qlFsKtvl/iVOJW2e7Eo3cr9nCAl34IEJeKgeF+tONLEcOssp41\nPZVNsDCVAgMBAAECggEAIbiyuZLUTFVBFiBaDTCoDXQHpYpUxWUh/c2mlEW4XBT8\nNklK0g5ReI8pI7RsUf/OzaEU+r5qroZuYHcdnbRJMiM7KK6fnDxeEdsC6Yzkhc7O\naZbhXHi/c1L3zkJG49cHn63yp+LlFso7dKWxhsFDxUk9Ou7HNMCiU3S6EJ+nGF7k\ntSkSZKh6EeWdi8jsY8TK6G0bkP9hiB++eX4PprGVW8scYfu1eTjCF1+4y2dxigpB\ndhHxIyJyvM64XQ9c1zme6OAp2kHyzRDb4Q9rrltEG+BkYMtmkKxrj4z3eEPSbgsr\n8iF4C14civaoBi5xmCypXrSGaJaVzhhCcsv1DUv9AQKBgQDm8eU2q0T22BpI/Tfn\n6CFSi5eTl0zCvH0MhB11uJgKZkKZsoC3HSWLFzZBJlM8VWDiwbBb8SB9kG1OV/7V\n8/pxNpRAAwo0tZTz1HHJ6X9vDWhZq1Y9hVDTn8Mo23p6jx/JXTO+pGCTb09zVlMl\ntAkcYqQw2Uxev2oRgB07DbE0qQKBgQDjVd96iqS2J+2qhpF9trTr0s+4u3JYvN3m\nY+PqZbvGCABCFUWCC6Wcd8Xs7ZzXa57CJmi5zMZKRhBJsbObeRrezgSa3S/8XyUp\nOfOR+zXqHV5C4SqJf95ZlFXknCfh8HSKMhfdeZC7+RGdrfmyTFhsp82tYbAlh0V+\n84BVFrrkDQKBgQCMrGvikRDBC4F3VEbpjAxAK6d4z4CCXi4NoawQORDjxMZsuL6O\ny8JCpzD1HlM1PQx3E2RJnOcdlQv/3LntuV+j9or3MuLUmIbSv2VQiFqHWrNla2hs\nsPg67+YAzTAd13CVR6BtT9ND+1l59+tN3AxwreU1nCdYz1/cqR0lC4IVgQKBgQDI\ngC9W+7qjsXmLAZ6GGsNcjhSIYEJMg17OWOFmFQ3UbbAUmIAyXyVUZ8qX2UWQNSnT\nIF8TJ8jnLv4kkObQw7HwOhGTqGsvEZdL0gHBiacWcYp2P/LtTGqF5S8QLq16N0IB\ntIaZ3iLJtrVTtWJZX75JLoJXXaYmozSm8AoKgb6ZbQKBgE/RRrD+JvqbbITw113D\ne3Phag3/2NitnWArSjpV+8uJU6NUkrdVHAuxiT+bC6TBRHAqA+ZN97BccKUMc5H+\n+j0m4syhAeQNNk+jYTvNu2r6W3KzjaI4UvR3cz+AEQCnIC0v9bwMIirlEoH9kE0R\nSFNKpovUsS/w3sy8xoUFd9A5\n-----END PRIVATE KEY-----\n",
+  "client_email": "packer-ac@rare-gate-372308.iam.gserviceaccount.com",
+  "client_id": "102647868225554190802",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/packer-ac%40rare-gate-372308.iam.gserviceaccount.com"
+}
